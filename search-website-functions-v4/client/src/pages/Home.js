@@ -4,7 +4,7 @@ import SearchBar from "../components/SearchBar";
 //import Box from "@mui/material/Box";
 import Container from "@mui/material/Container";
 import Typography from "@mui/material/Typography";
-import logo from "../images/cognitive_search.jpg";
+import logo from "../images/cognitive_search.png";
 import styled from "@emotion/styled";
 
 /* const StyledHomeBox = styled(Box)`
